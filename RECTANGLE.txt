@@ -8,3 +8,5 @@ class  HelloWorld{
         System.out.println("perimeter of rectangle:"+perimeter);
     }
 }
+
+//Find the area and perimeter of rectangle
